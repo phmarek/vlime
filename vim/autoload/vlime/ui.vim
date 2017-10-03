@@ -1,8 +1,8 @@
 let g:vlime_default_window_settings = {
-            \ 'sldb': {'pos': 'botright', 'size': v:null, 'vertical': v:false},
-            \ 'repl': {'pos': 'botright', 'size': v:null, 'vertical': v:false},
-            \ 'mrepl': {'pos': 'botright', 'size': v:null, 'vertical': v:false},
-            \ 'inspector': {'pos': 'botright', 'size': v:null, 'vertical': v:false},
+            \ 'sldb': {'pos': 'botright', 'size': v:null, 'vertical': v:true},
+            \ 'repl': {'pos': 'botright', 'size': v:null, 'vertical': v:true},
+            \ 'mrepl': {'pos': 'botright', 'size': v:null, 'vertical': v:true},
+            \ 'inspector': {'pos': 'botright', 'size': v:null, 'vertical': v:true},
             \ 'trace': {'pos': 'botright', 'size': v:null, 'vertical': v:false},
             \ 'xref': {'pos': 'botright', 'size': 12, 'vertical': v:false},
             \ 'notes': {'pos': 'botright', 'size': 12, 'vertical': v:false},
